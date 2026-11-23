@@ -1,0 +1,6 @@
+Test,Test Statistic,p-value,Effect Size,Significant,Tiny,Conclusion
+Chi-square: weather x late/failed,χ² = 1354.5,1.016e-290,Cramer's V = 0.233,True,False,Weather strongly predicts late/failed (p < 0.001). Late rate ranges 12.9% (cold) to 32.5% (stormy).
+Chi-square: partner x late/failed,χ² = 14.0,0.0812,Cramer's V = 0.024,False,False,Partner differences in late/failed rate are not statistically significant (p = 0.081). Late rate spans only 2.6 pp across partners.
+ANOVA: cost across vehicle type,F = 0.41,0.842,eta² = 0.0001,False,False,"No evidence that vehicle type affects delivery cost (p = 0.842). Cost is driven by distance, not vehicle."
+Kruskal-Wallis: cost across vehicle type,H = 2.07,0.839,ε² = -0.000,False,False,Non-parametric test confirms no difference in cost by vehicle type (p = 0.839).
+Spearman: rating vs time deviation,ρ = -0.567,0.000e+00,Spearman ρ = -0.567,True,False,"Strong negative correlation (ρ = -0.567, p < 0.001). Later deliveries get lower ratings."
