@@ -92,7 +92,6 @@
 | `data/processed/delivery_features.csv` | 25,000 × 22 enriched dataset |
 | `data/processed/statistical_tests_summary.csv` | Section 10 results table |
 | `data/processed/model_comparison.csv` | Section 11 model metrics |
-| `WEAKNESSES_CHECKLIST.md` | 24-item audit of remaining issues |
 | `README.md` | Project summary, run instructions, key numbers |
 
 ---
